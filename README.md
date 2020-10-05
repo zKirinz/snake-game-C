@@ -31,5 +31,5 @@ tải file mình thiếu/ lỗi rồi đưa file đó (sau khi giải nén) vào
 
 # License & copyright
 
-© Trần Trung Kiên, FPT University TP.HCM
+© Trần Trung Kiên - Hồ Linh Chi - Hoàng Phi Hải, FPT University TP.HCM
 Licensed under the [MIT LICENSE](LICENSE).
