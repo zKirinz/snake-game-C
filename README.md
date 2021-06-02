@@ -1,8 +1,8 @@
 ﻿# Console Game SNAKE 2.0
 
-- Demo: <https://youtu.be/T7vTSeiKzMs/>
+## [Live Demo](https://youtu.be/T7vTSeiKzMs)
 
-# Description
+## Description
 
 - This Game is create by using C language.
 - Using third-party library `console.h` (already attached in source code).
@@ -11,7 +11,7 @@
 - All in a single file so as to easy to understand the code flow.
 (Strongly Recommend to refactor the code after you understande the code flow.)
 
-# Feature
+## Feature
 
 - [x] Play /Pause /Reset when playing.
 - [x] Store Top 5 highest score and player name.
@@ -20,7 +20,7 @@
 - [x] Snake Bots and special objects.
 - [x] Various mode as well as level of difficult for player to challenge.
 
-# Setup
+## Setup
 
 Download all file and put in same directory
 
@@ -34,7 +34,7 @@ Download all file and put in same directory
 
 If `.exe` file has error about missing or broken file, go to <https://www.dll-files.com/> and download the file that the error told you. Then put that file (after extracted) to C:\Windows\System32 and the folder that contains `.exe` file.
 
-# License & copyright
+## License & copyright
 
 © Trần Trung Kiên - Hồ Linh Chi - Hoàng Phi Hải, FPT University TP.HCM
 Licensed under the [MIT LICENSE](LICENSE).
