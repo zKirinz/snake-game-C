@@ -6,14 +6,19 @@
 
 - This Game is create by using C language.
 - Using third-party library `console.h` (already attached in source code).
+- Using native API to play sound.
 - Keyboard to play only.
+- All in a single file so as to easy to understand the code flow.
+(Strongly Recommend to refactor the code after you understande the code flow.)
 
 # Feature
 
 - [x] Play /Pause /Reset when playing.
 - [x] Store Top 5 highest score and player name.
 - [x] Cool and lively sound.
-- [x] There are various mode as well as level of difficult for player to challenge.
+- [x] Colorful and great graphics. 
+- [x] Snake Bots and special objects.
+- [x] Various mode as well as level of difficult for player to challenge.
 
 # Setup
 
