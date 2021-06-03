@@ -36,5 +36,5 @@ If `.exe` file has error about missing or broken file, go to <https://www.dll-fi
 
 ## License & copyright
 
-© Trần Trung Kiên - Hồ Linh Chi - Hoàng Phi Hải, FPT University TP.HCM
+© Kirin Tran - Hồ Linh Chi - Hoàng Phi Hải, FPT University TP.HCM
 Licensed under the [MIT LICENSE](LICENSE).
