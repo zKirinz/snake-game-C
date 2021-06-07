@@ -20,6 +20,13 @@
 - [x] Snake Bots and special objects.
 - [x] Various mode as well as level of difficult for player to challenge.
 
+## Some preview images
+<img src="./docs/images/home.png" width="400" height="217" />
+<img src="./docs/images/classic-mode.png" width="400" height="217" />
+<img src="./docs/images/special-mode.png" width="400" height="217" />
+<img src="./docs/images/save-score.png" width="400" height="217" />
+<img src="./docs/images/review-score.png" width="400" height="217" />
+
 ## Setup
 
 Download all file and put in same directory
